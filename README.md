@@ -1,4 +1,4 @@
-# bot mouse para estudar automação de tarefas
+# Bot mouse para estudar automação de tarefas em ![stack](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 <br>
 
 <h2>Instale as bibliotecas pyautogui, random e time</h2> 
